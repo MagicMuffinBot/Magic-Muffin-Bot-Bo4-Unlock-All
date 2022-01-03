@@ -1,4 +1,4 @@
-# Magic-Muffin-Bot-Bo4-Soft-Unlock-All 
+# Magic-Muffin-Bot-Bo4-Soft-Unlock-All Made By ThisIsAName12347 
 Black Ops 4 Unlock All 
 Install Process Hacker- ( https://processhacker.sourceforge.io)
 Download Recommended Setup
@@ -9,3 +9,4 @@ Select Miscellaneous
 Inject DLL
 Then Select Magic Muffin Bot Bo4 Unlock All
 The Key To Open And Close The Menu is F1
+(Must Inject Everytime)
